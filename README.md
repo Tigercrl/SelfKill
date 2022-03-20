@@ -1,5 +1,5 @@
 # SelfKill
-A spigot plugin to kill your self in minecraft, but Do Not Need OP.
+A spigot plugin to kill your self in minecraft, but DO NOT NEED OP.
 
 This is my first Spigot Plugin and I won't update it anymore.
 
