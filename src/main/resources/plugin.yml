@@ -6,5 +6,5 @@ authors: [ Tigercrl ]
 description: 添加了自杀指令/selfkill。
 commands:
   selfkill:
-    description: 用来自杀。
-    usage: /selfkill
+    description: To kill yourself.
+    usage: Kill your self by using /selfkill
