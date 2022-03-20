@@ -1,0 +1,10 @@
+name: SelfKill
+version: '${project.version}'
+main: me.tigercrl.selfkill.SelfKill
+api-version: 1.18
+authors: [ Tigercrl ]
+description: 添加了自杀指令/selfkill。
+commands:
+  selfkill:
+    description: 用来自杀。
+    usage: /selfkill
